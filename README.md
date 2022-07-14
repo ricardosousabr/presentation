@@ -1,6 +1,6 @@
 # Olá, meu nome é Ricardo.
 
-Sou um desenvolvedor front-end. Estou em constante evolução, todos os dias para mim são um constante aprendizado, gosto de trabalhar em grupo é sou bastante sociável, sou bastante curioso estou sempre procurando novas tecnologias para aprender é melhorar para fazer o melhor projeto que eu puder para garantir uma ótima qualidade para meus projetos.
+Sou um desenvolvedor front-end. Estou em constante evolução, todos os dias para mim são um constante aprendizado. Gosto de trabalhar em grupo, sou bastante sociável e bastante curioso: estou sempre procurando novas tecnologias para evoluir e melhorar meus projetos.
 
 <div>
 <a href="https://github.com/ricardosousabr">
