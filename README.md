@@ -4,12 +4,9 @@ Sou um desenvolvedor front-end. Estou em constante evolução, todos os dias par
 
 <div>
 <a href="https://github.com/ricardosousabr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricardosousabr&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sricardosousabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosousabr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosousabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/ricardo-sousa-oliveira/)](https://www.linkedin.com/in/ricardo-sousa-oliveira/)
-[![Gmail Badge](https://img.shields.io/badge/-ricardo.br.pi@gmail.com-bb7df5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.br.pi@gmail.com)](mailto:ricardo.br.pi@gmail.com)
 
 <a href="https://instagram.com/ricardosousa.br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
