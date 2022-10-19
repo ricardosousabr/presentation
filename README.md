@@ -1,6 +1,10 @@
 # Olá, meu nome é Ricardo.
 
-Sou um desenvolvedor front-end. Estou em constante evolução, todos os dias para mim são um constante aprendizado. Gosto de trabalhar em grupo, sou bastante sociável e bastante curioso: estou sempre procurando novas tecnologias para evoluir e melhorar meus projetos.
+Olá, meu nome é Ricardo. Sou um desenvolvedor front-end apaixonado pelo que faço. Tudo o que aprendi foi através do meu esforço e dedicação, sempre visando desenvolver o melhor código com qualidade e eficiência. Sou muito curioso, Gosto de trabalhar em grupo ajudando o time a crescer cada vez mais, 
+
+Tenho conhecimento em algumas tecnologias e conceitos como HTML, CSS, SASS, Framework Bootstrap, Metodologia de escrita BEM, Controle de versionamento (Git/GitHub), Display Flex, Mobile First, Gerenciador de pacotes NPM e Yarn, Metodologias Ágeis (Scrum/Kanban) e além disso no momento estou aprendendo JavaScript.
+
+“Para crescer você tem que experimentar coisas novas”
 
 <div>
 <a href="https://github.com/ricardosousabr">
