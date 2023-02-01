@@ -2,7 +2,9 @@
 
 Olá, meu nome é Ricardo. Sou um desenvolvedor front-end apaixonado pelo que faço. Tudo o que aprendi foi através do meu esforço e dedicação, sempre visando desenvolver o melhor código com qualidade e eficiência. Sou muito curioso, Gosto de trabalhar em grupo ajudando o time a crescer cada vez mais, 
 
-Tenho conhecimento em algumas tecnologias e conceitos como HTML, CSS, SASS, Framework Bootstrap, Metodologia de escrita BEM, Controle de versionamento (Git/GitHub), Display Flex, Mobile First, Gerenciador de pacotes NPM e Yarn, Metodologias Ágeis (Scrum/Kanban) e além disso no momento estou aprendendo JavaScript.
+
+Tenho conhecimento em algumas tecnologias e conceitos como React, Styled-components, Testes Unitários, Testes e2e e Snapshot, Github actions, Testes automatizados, Coverage, CI/DI, API, SASS, Framework Bootstrap, Display Flex, Metodologia de escrita BEM, Metodologias Ágeis (Scrum/Kanban), Mobile First, Controle de versionamento (Git/GitHub), Display Flex, Gerenciador de pacotes NPM e Yarn, Ferramenta de análise de código ESLint e Prettier, além disso no momento estou estudando JavaScript.
+
 
 “Para crescer você tem que experimentar coisas novas”
 
