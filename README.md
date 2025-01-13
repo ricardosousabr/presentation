@@ -4,12 +4,12 @@ Sou um desenvolvedor full stack apaixonado por criar aplicações completas, int
 
 Minhas principais habilidades incluem:
 
-Frontend: React, Next.js, Styled-components, SASS, Bootstrap, Display Flex, Mobile First, Metodologia BEM.
-Backend: Node.js, Fastify, Express.js, APIs RESTful e GraphQL, Autenticação (JWT, OAuth).
-Bancos de Dados: MongoDB, MySQL.
-Testes e Qualidade: Testes Unitários, Snapshot, e2e, Testes Automatizados, Coverage.
-Ferramentas e Workflow: Git/GitHub, CI/CD, Github Actions, Docker, ESLint, Prettier, NPM/Yarn.
-Metodologias: Ágil (Scrum/Kanban).
+# Frontend: React, Next.js, Styled-components, SASS, Bootstrap, Display Flex, Mobile First, Metodologia BEM.#
+# Backend: Node.js, Fastify, Express.js, APIs RESTful e GraphQL, Autenticação (JWT, OAuth).
+# Bancos de Dados: MongoDB, MySQL.
+# Testes e Qualidade: Testes Unitários, Snapshot, e2e, Testes Automatizados, Coverage.
+# Ferramentas e Workflow: Git/GitHub, CI/CD, Github Actions, Docker, ESLint, Prettier, NPM/Yarn.
+# Metodologias: Ágil (Scrum/Kanban).
 Atualmente, continuo expandindo meus conhecimentos, explorando tecnologias modernas para criar soluções inovadoras e impactantes.
 
 "Para crescer, você tem que experimentar coisas novas."
