@@ -1,12 +1,18 @@
 # Olá, meu nome é Ricardo.
 
-Olá, meu nome é Ricardo. Sou um desenvolvedor front-end apaixonado pelo que faço. Tudo o que aprendi foi através do meu esforço e dedicação, sempre visando desenvolver o melhor código com qualidade e eficiência. Sou muito curioso, Gosto de trabalhar em grupo ajudando o time a crescer cada vez mais, 
+Sou um desenvolvedor full stack apaixonado por criar aplicações completas, integrando soluções eficientes e de qualidade tanto no front-end quanto no back-end. Todo o meu conhecimento foi adquirido com muito esforço e dedicação, sempre buscando entregar o melhor código. Adoro trabalhar em equipe, ajudando meu time a crescer continuamente e a alcançar grandes resultados. 🚀
 
+Minhas principais habilidades incluem:
 
-Tenho conhecimento em algumas tecnologias e conceitos como React, Styled-components, Testes Unitários, Testes e2e e Snapshot, Github actions, Testes automatizados, Coverage, CI/DI, API, SASS, Framework Bootstrap, Display Flex, Metodologia de escrita BEM, Metodologias Ágeis (Scrum/Kanban), Mobile First, Controle de versionamento (Git/GitHub), Display Flex, Gerenciador de pacotes NPM e Yarn, Ferramenta de análise de código ESLint e Prettier, além disso no momento estou estudando JavaScript.
+Frontend: React, Next.js, Styled-components, SASS, Bootstrap, Display Flex, Mobile First, Metodologia BEM.
+Backend: Node.js, Fastify, Express.js, APIs RESTful e GraphQL, Autenticação (JWT, OAuth).
+Bancos de Dados: MongoDB, MySQL.
+Testes e Qualidade: Testes Unitários, Snapshot, e2e, Testes Automatizados, Coverage.
+Ferramentas e Workflow: Git/GitHub, CI/CD, Github Actions, Docker, ESLint, Prettier, NPM/Yarn.
+Metodologias: Ágil (Scrum/Kanban).
+Atualmente, continuo expandindo meus conhecimentos, explorando tecnologias modernas para criar soluções inovadoras e impactantes.
 
-
-“Para crescer você tem que experimentar coisas novas”
+"Para crescer, você tem que experimentar coisas novas."
 
 ##
 
